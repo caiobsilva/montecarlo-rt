@@ -1,0 +1,12 @@
+[package]
+name = "montecarlo-rt"
+version = "0.1.0"
+authors = ["Caio Braga <caiobs.99@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nalgebra-glm = "0.3"
+tobj = "0.0.3"
+rand = "0.7.3"
